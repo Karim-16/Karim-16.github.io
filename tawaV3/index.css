@@ -60,7 +60,7 @@ table {
 body {
 	min-height: 100vh;
 	
-	border: 5px dashed red;
+	/*border: 5px dashed red;*/
 	
 	width: 100%;
 	background: rgb(255, 255, 255);
